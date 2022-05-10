@@ -28,3 +28,6 @@ git clone https://github.com/MatJehey/autocore-arm-x86.git package/new/luci-app-
 
 # Bypass
 git clone https://github.com/kiddin9/openwrt-bypass.git package/new/luci-app-bypass
+
+# modem
+git clone https://github.com/4IceG/luci-app-3ginfo-lite.git package/new/luci-app-3ginfo-lite
